@@ -1,0 +1,25 @@
+{
+  "name": "express-for-beginner",
+  "version": "1.0.0",
+  "description": "express for beginner from mcoding",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcodingir/express-for-beginner.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "mcoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcodingir/express-for-beginner/issues"
+  },
+  "homepage": "https://github.com/mcodingir/express-for-beginner#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
